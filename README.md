@@ -31,11 +31,9 @@ The system manages driving license services, applicants, drivers, tests, users, 
 
 Use the following credentials to explore the application:
 
-**Username:** `YourUsername`
+**Username:** `admin`
 
-**Password:** `YourPassword`
-
-> ⚠️ These credentials are provided for demonstration purposes only.
+**Password:** `223344`
 
 ---
 
