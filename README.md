@@ -44,7 +44,6 @@ Use the following credentials to explore the application:
 - ADO.NET
 - SQL Server Database Design
 - CRUD Operations
-- Authentication & Authorization
 - Business Rules Implementation
 - Validation Techniques
 - Windows Forms Development
